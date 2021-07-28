@@ -4,7 +4,7 @@ hello from atom!
 
 ## License
 
-Copyright (c) 2020, Savannah Cookson
+Copyright (c) 2021, Savannah Cookson
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
